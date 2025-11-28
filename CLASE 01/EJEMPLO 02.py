@@ -1,0 +1,2 @@
+#estainstruccionimprimeunacadena
+print("hola python")

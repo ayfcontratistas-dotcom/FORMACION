@@ -1,0 +1,2 @@
+#esta intruccion imprime una cadena
+print("hola python")
